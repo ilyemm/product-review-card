@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/desktop-view.png.png)
-![](/assets/images/mobile-view.png.png)
+![](assets/images/desktop-view.png)
+![](assets/images/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/using-vanilla-htmlcss-for-product-review-card-ypY_yCPwEB)
+- Live Site URL: [Github Pages](https://ilyemm.github.io/product-review-card/)
 
 ## My process
 
