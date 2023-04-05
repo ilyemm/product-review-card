@@ -142,7 +142,8 @@ h1
     display: table-cell;
     vertical-align: middle;
     padding-left: 1rem;
-    font-size: 1rem;
+    font-size: .8rem;
+    color: var(--gray-blue);
 }
 
 /* button */
